@@ -13,3 +13,9 @@ main {
   margin: 5px;
   padding: 5px;
 }
+
+footer {
+  bottom:0;
+  position: fixed;
+  width: 100%;
+}
